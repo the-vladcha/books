@@ -1,5 +1,3 @@
-from pprint import pprint
-
 from django.contrib.auth.models import User
 from django.db.models import Count, Case, When, Avg, F
 from django.test import TestCase
